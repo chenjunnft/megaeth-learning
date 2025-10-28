@@ -1,2 +1,2 @@
-# megaeth-learning
-Learning materials and experiments related to MegaETH ecosystem.
+# Learning MegaETH
+Trying out some GitHub operations while exploring the MegaETH ecosystem.
